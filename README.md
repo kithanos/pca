@@ -4,6 +4,8 @@ Aplicação da técnica "Principal Component Analysis" em um arquivo de vetores 
 Para maiores detalhes, por favor acessem:
 https://bytefish.de/blog/pca_lda_with_gnu_octave/
 
+Programa criado e executado no GNU Octave, version 4.0.0.
+
 Amostras de Exemplos:
 
 Arquivo de vetores originais: dados.ascii (23 componentes)
